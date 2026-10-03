@@ -1,3 +1,5 @@
+> **⚠️ MOVED (2026-10-03):** this repository is archived. It now lives in [scarter4work/astro-pi](https://github.com/scarter4work/astro-pi) under `tools/astro-stretch-studio/`.
+
 # AstroStretch Studio
 
 A React WebView application for PixInsight implementing advanced image stretching algorithms for astrophotography.
